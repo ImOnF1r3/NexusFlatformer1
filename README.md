@@ -10,3 +10,5 @@ To install and run the game on Windows, follow these steps:
 3. Run `HackTheBoxExecuteMe.exe` to start the game.
 
 Good luck, and may your hacking skills lead you to the hidden key within Nexus!
+
+Royalty free Sci-Fi background music for the CTF game . No Copyright Music.
